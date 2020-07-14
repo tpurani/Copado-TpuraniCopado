@@ -287,7 +287,7 @@
     </fields>
     <fields>
         <fullName>Phone</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
+        <trackFeedHistory>true</trackFeedHistory>
     </fields>
     <fields>
         <fullName>Rating</fullName>
