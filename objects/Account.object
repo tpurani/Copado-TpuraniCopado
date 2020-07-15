@@ -264,7 +264,7 @@
     </fields>
     <fields>
         <fullName>Name</fullName>
-        <trackFeedHistory>true</trackFeedHistory>
+        <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>NumberOfEmployees</fullName>
