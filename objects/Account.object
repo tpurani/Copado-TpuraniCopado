@@ -243,7 +243,7 @@
     </fields>
     <fields>
         <fullName>BillingAddress</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
+        <trackFeedHistory>true</trackFeedHistory>
     </fields>
     <fields>
         <fullName>Description</fullName>
@@ -264,7 +264,7 @@
     </fields>
     <fields>
         <fullName>Name</fullName>
-        <trackFeedHistory>true</trackFeedHistory>
+        <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>NumberOfEmployees</fullName>
@@ -308,7 +308,7 @@
     </fields>
     <fields>
         <fullName>Site</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
+        <trackFeedHistory>true</trackFeedHistory>
     </fields>
     <fields>
         <fullName>TickerSymbol</fullName>
